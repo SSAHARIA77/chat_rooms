@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92556105233",
+    "project_id": "chatroom-722b4",
+    "storage_bucket": "chatroom-722b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92556105233:android:b9f5513f82c71a4288c3b0",
+        "android_client_info": {
+          "package_name": "com.saharia.chatroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSdr2kj0VVbGnaIUndmrYYt1s7Uunlz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
